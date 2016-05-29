@@ -1,2 +1,5 @@
 # python-ml
-Machine learning notebooks in Python
+This repository contains some Machine Learning (ML) notebooks in Python.
+These were written for personal training purposes.
+  
+
